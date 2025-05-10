@@ -21,9 +21,7 @@ facial-login-system/
 │   ├── models/                 # Pre-trained face-api.js models
 │   ├── index.html              # Main HTML interface
 │   └── style.css               # UI styling
-│
-├── src/
-│   └── js/
+|   |--js/
 │       ├── main.js             # App bootstrap logic
 │       ├── camera.js           # Webcam access
 │       ├── faceDetection.js    # Face capture and descriptor extraction
