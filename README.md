@@ -118,7 +118,7 @@ Fetches descriptor and photo for the given user.
 ## 📸 Credits
 
 * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-* Project template and structure by \[@brayanj4y]
+* Project template and structure by @brayanj4y
 
 ---
 
