@@ -1,8 +1,9 @@
 # Facial Login Web App
-![image](https://github.com/user-attachments/assets/2efc2961-58d3-476d-8d0b-5130bf8a008a)
-
 
 A browser-based facial recognition login system using [face-api.js](https://github.com/justadudewhohacks/face-api.js) for real-time face detection and descriptor matching, with persistent storage using a Node.js + SQLite backend.
+
+![Preview](./preview/image.png)
+
 
 ## 🚀 Features
 
